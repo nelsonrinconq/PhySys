@@ -1,0 +1,90 @@
+[submodule "u8g2-ssd1306/components/u8g2"]
+	path = 003-u8g2-ssd1306/components/u8g2
+	url = https://github.com/olikraus/u8g2.git
+[submodule "008-i2c-sw-master/components/esp32-software-i2c"]
+	path = 008-i2c-sw-master/components/esp32-software-i2c
+	url = git@github.com:tuupola/esp32-software-i2c.git
+[submodule "010-copepod-demo/components/copepod"]
+	path = 010-m5stack-fire/components/copepod
+	url = git@github.com:tuupola/copepod.git
+[submodule "009-m5stack-gfx/components/copepod"]
+	path = 009-m5stack-gfx/components/copepod
+	url = git@github.com:tuupola/copepod.git
+[submodule "011-m5stack-gps/components/minmea/minmea"]
+	path = 011-m5stack-gps/components/minmea/minmea
+	url = git@github.com:kosma/minmea.git
+[submodule "011-m5stack-gps/components/copepod"]
+	path = 011-m5stack-gps/components/copepod
+	url = git@github.com:tuupola/copepod.git
+[submodule "011-m5stack-gps/components/esp-ili9341"]
+	path = 011-m5stack-gps/components/esp-ili9341
+	url = git@github.com:tuupola/esp-ili9341.git
+[submodule "011-m5stack-gps/components/copepod-esp-ili9341"]
+	path = 011-m5stack-gps/components/copepod-esp-ili9341
+	url = git@github.com:tuupola/copepod-esp-ili9341.git
+[submodule "011-m5stack-gps/components/font8x8/font8x8"]
+	path = 011-m5stack-gps/components/font8x8/font8x8
+	url = git@github.com:dhepper/font8x8.git
+[submodule "012-mqtt-wifi/components/espmqtt"]
+	path = 012-mqtt-wifi/components/espmqtt
+	url = https://github.com/tuanpmt/espmqtt.git
+[submodule "012-mqtt-wifi/components/esp-mqtt"]
+	path = 012-mqtt-wifi/components/esp-mqtt
+	url = git@github.com:espressif/esp-mqtt.git
+[submodule "012-mqtt-wifi/components/mjson/mjson"]
+	path = 012-mqtt-wifi/components/mjson/mjson
+	url = git@github.com:cpq/mjson.git
+[submodule "014-mandelbrot/components/copepod"]
+	path = 014-mandelbrot/components/copepod
+	url = git@github.com:tuupola/copepod.git
+[submodule "013-mqtt-at/components/esp-mqtt"]
+	path = 013-mqtt-at/components/esp-mqtt
+	url = git@github.com:espressif/esp-mqtt.git
+[submodule "013-mqtt-at/components/mqtt-protocol-c/mqtt-protocol-c"]
+	path = 013-mqtt-at/components/mqtt-protocol-c/mqtt-protocol-c
+	url = git@github.com:deoxxa/mqtt-protocol-c.git
+[submodule "015-m5stick-gfx/components/copepod"]
+	path = 015-m5stick-gfx/components/copepod
+	url = git@github.com:tuupola/copepod.git
+[submodule "015-m5stick-gfx/components/axp192"]
+	path = 015-m5stick-gfx/components/axp192
+	url = git@github.com:tuupola/axp192.git
+[submodule "009-m5stack-gfx/components/copepod_esp_mipi"]
+	path = 009-m5stack-gfx/components/copepod_esp_mipi
+	url = git@github.com:tuupola/copepod_esp_mipi.git
+[submodule "009-m5stack-gfx/components/esp_mipi"]
+	path = 009-m5stack-gfx/components/esp_mipi
+	url = git@github.com:tuupola/esp_mipi.git
+[submodule "015-m5stick-gfx/components/copepod_esp_mipi"]
+	path = 015-m5stick-gfx/components/copepod_esp_mipi
+	url = git@github.com:tuupola/copepod_esp_mipi.git
+[submodule "015-m5stick-gfx/components/esp_i2c_hal"]
+	path = 015-m5stick-gfx/components/esp_i2c_hal
+	url = git@github.com:tuupola/esp_i2c_hal.git
+[submodule "016-mipi-speedtest/components/esp_mipi"]
+	path = 016-mipi-speedtest/components/esp_mipi
+	url = git@github.com:tuupola/esp_mipi.git
+[submodule "014-mandelbrot/components/esp_mipi"]
+	path = 014-mandelbrot/components/esp_mipi
+	url = git@github.com:tuupola/esp_mipi.git
+[submodule "014-mandelbrot/components/copepod_esp_mipi"]
+	path = 014-mandelbrot/components/copepod_esp_mipi
+	url = git@github.com:tuupola/copepod_esp_mipi.git
+[submodule "010-m5stack-fire/components/copepod_esp_mipi"]
+	path = 010-m5stack-fire/components/copepod_esp_mipi
+	url = git@github.com:tuupola/copepod_esp_mipi.git
+[submodule "010-m5stack-fire/components/esp_mipi"]
+	path = 010-m5stack-fire/components/esp_mipi
+	url = git@github.com:tuupola/esp_mipi.git
+[submodule "017-m5stick-rtc/components/bm8563"]
+	path = 017-m5stick-rtc/components/bm8563
+	url = git@github.com:tuupola/bm8563.git
+[submodule "017-m5stick-rtc/components/esp_i2c_hal"]
+	path = 017-m5stick-rtc/components/esp_i2c_hal
+	url = git@github.com:tuupola/esp_i2c_hal.git
+[submodule "017-m5stick-rtc/components/axp192"]
+	path = 017-m5stick-rtc/components/axp192
+	url = git@github.com:tuupola/axp192.git
+[submodule "015-m5stick-gfx/components/esp_mipi"]
+	path = 015-m5stick-gfx/components/esp_mipi
+	url = git@github.com:tuupola/esp_mipi.git
